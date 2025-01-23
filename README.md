@@ -5,4 +5,11 @@ Users can register and log in to personalize their experience, add new recipes w
 
 Additionally, features such as expandable recipe details and recipe deletion functionality enhance the usability and interactivity of the application. This project combines front-end aesthetics with back-end functionality to deliver a responsive user experience, aiming to encourage better dietary planning and community engagement through shared recipes.
 
+To execute client
+>>npm start
+To execute server
+>>node server.js
+Node Modules to be installed for client.
+
+
 
